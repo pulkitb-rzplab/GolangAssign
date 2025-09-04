@@ -20,7 +20,7 @@ func rate(ch chan<- int) {
 
 }
 
-func main() {
+//func main() {
 	ch := make(chan int, 1)
 	var wg sync.WaitGroup
 

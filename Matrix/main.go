@@ -1,9 +1,9 @@
 package main
 
-type Matrix struct {
-	rows int
-	cols int
-}
+// type Matrix struct {
+// 	rows int
+// 	cols int
+// }
 
 // func main() {
 
@@ -42,3 +42,4 @@ type Matrix struct {
 // 	p.age = 42
 // 	return &p
 // }
+
